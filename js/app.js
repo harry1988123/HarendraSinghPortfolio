@@ -22,7 +22,7 @@ $(document).ready(function () {
 
   resume_download.addEventListener('click', () => {
     window.open(
-      'https://drive.google.com/file/d/1Fp-kX8bfHNTDz2Ar2rdCp9ghqpdxFrAT/view?usp=sharing', '_blank'
+      'https://drive.google.com/file/d/1Pr2TOVkZUgHTAGv4srCUneXXPRCl1cun/view?usp=share_link', '_blank'
     )
   });
 
